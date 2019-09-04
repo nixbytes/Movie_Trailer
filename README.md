@@ -1,8 +1,6 @@
 ----------------------
 Udacity Movie Project
 ----------------------
-Author: Elvin Ramirez
-Email: real8686@gmail.com
 version: 1.1
 lasted Edited: 2015/07/30
 ----------------------
